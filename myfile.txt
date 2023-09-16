@@ -1,1 +1,7 @@
 My name is MUHAMMAD SHAMOON and this is my first repo.
+
+After writing a text in vs code.Press "ctrl S" to save the flie.
+Open "commad prompt" and go the flie location.
+git add .
+git commit -m "commit's message"
+git push
